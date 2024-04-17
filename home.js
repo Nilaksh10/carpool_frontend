@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-<<<<<<< HEAD
+    HEAD
     const hostOption = document.getElementById("host-option");
     const getOption = document.getElementById("get-option");
     const hostForm = document.getElementById("host-ride-form");
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
   
-=======
+
   const hostOption = document.getElementById("host-option");
   const getOption = document.getElementById("get-option");
   const hostForm = document.getElementById("host-ride-form");
@@ -45,5 +45,5 @@ document.addEventListener("DOMContentLoaded", function() {
     hostOption.style.backgroundColor = "#ddd";
     container.classList.add("slide-left");
   });
-});
->>>>>>> origin/main
+
+
